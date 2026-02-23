@@ -4519,6 +4519,7 @@ tinfoleak ;
 tinfoleak2 -h ;
 tinja -h ;
 tinyproxy -h ;
+titus -h ;
 tkiptun-ng --help ;
 tls-attacker ;
 tlsenum -h ;
